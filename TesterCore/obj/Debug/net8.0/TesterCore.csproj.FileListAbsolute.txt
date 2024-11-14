@@ -1,0 +1,17 @@
+C:\Users\Aluno Noite\Downloads\DaviG\Site\TesterCore\TesterCore\bin\Debug\net8.0\TesterCore.deps.json
+C:\Users\Aluno Noite\Downloads\DaviG\Site\TesterCore\TesterCore\bin\Debug\net8.0\TesterCore.runtimeconfig.json
+C:\Users\Aluno Noite\Downloads\DaviG\Site\TesterCore\TesterCore\bin\Debug\net8.0\TesterCore.dll
+C:\Users\Aluno Noite\Downloads\DaviG\Site\TesterCore\TesterCore\bin\Debug\net8.0\TesterCore.pdb
+C:\Users\Aluno Noite\Downloads\DaviG\Site\TesterCore\TesterCore\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Aluno Noite\Downloads\DaviG\Site\TesterCore\TesterCore\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Aluno Noite\Downloads\DaviG\Site\TesterCore\TesterCore\obj\Debug\net8.0\TesterCore.csproj.AssemblyReference.cache
+C:\Users\Aluno Noite\Downloads\DaviG\Site\TesterCore\TesterCore\obj\Debug\net8.0\TesterCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno Noite\Downloads\DaviG\Site\TesterCore\TesterCore\obj\Debug\net8.0\TesterCore.AssemblyInfoInputs.cache
+C:\Users\Aluno Noite\Downloads\DaviG\Site\TesterCore\TesterCore\obj\Debug\net8.0\TesterCore.AssemblyInfo.cs
+C:\Users\Aluno Noite\Downloads\DaviG\Site\TesterCore\TesterCore\obj\Debug\net8.0\TesterCore.csproj.CoreCompileInputs.cache
+C:\Users\Aluno Noite\Downloads\DaviG\Site\TesterCore\TesterCore\obj\Debug\net8.0\TesterCore.csproj.Up2Date
+C:\Users\Aluno Noite\Downloads\DaviG\Site\TesterCore\TesterCore\obj\Debug\net8.0\TesterCore.dll
+C:\Users\Aluno Noite\Downloads\DaviG\Site\TesterCore\TesterCore\obj\Debug\net8.0\refint\TesterCore.dll
+C:\Users\Aluno Noite\Downloads\DaviG\Site\TesterCore\TesterCore\obj\Debug\net8.0\TesterCore.pdb
+C:\Users\Aluno Noite\Downloads\DaviG\Site\TesterCore\TesterCore\obj\Debug\net8.0\TesterCore.genruntimeconfig.cache
+C:\Users\Aluno Noite\Downloads\DaviG\Site\TesterCore\TesterCore\obj\Debug\net8.0\ref\TesterCore.dll
